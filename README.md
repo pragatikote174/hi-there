@@ -1,11 +1,15 @@
-# hi-there<h1 align="center">Hi 👋, I'm pragatikote174</h1>
+[![MasterHead](https://miro.medium.com/max/3840/1*g__jiesLRIfCRefVG69Pfw.gif)](https://pragatikote174.io)
+<h1 align="center">Hi 👋, I'm pragatikote174</h1>
 <h3 align="center">A passionate Data Science from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 
-- 🌱 I’m currently learning **data science**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pragatikote174&label=Profile%20views&color=0e75b6&style=flat" alt="pragatikote174" /> </p>
 
-- 💬 Ask me about me **PYTHON ,MACHINE LEARNING ,MY SQL.**
+- 🌱 I’m currently learning *data science*
 
-- 📫 How to reach me **pragatikale174@gmail.com**
+- 💬 Ask me about **Python,Machine Learning,Tableau,Statics,MySQL**
+
+- 📫 How to reach me *pragatikale174@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,7 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pragatikote174&show_icons=true&locale=en" alt="pragatikote174" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pragatikote174&" alt="pragatikote174" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for ot
